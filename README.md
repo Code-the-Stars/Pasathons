@@ -1,4 +1,4 @@
-#Pasathons
+Pasathons
 --
 Past + Hackathons
 
